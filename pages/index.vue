@@ -5,7 +5,7 @@
 <script>
 import LoginPage from './login/LoginPage.vue'
 export default {
-  components: { LoginPage },
   name: 'IndexPage',
+  components: { LoginPage },
 }
 </script>
